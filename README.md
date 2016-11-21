@@ -1,2 +1,3 @@
-# sitemap-spider
-A simple Python spider for building sitemap
+# Introduction
+
+This is experimental spider for building a sitemap.  
