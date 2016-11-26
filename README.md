@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+![](https://github.com/Sabrina-Jiang/Diver/blob/master/images/screen-shot.png?raw=true)
+
 Diver is experimental spider for site mapping.
 
 Diver can analysis the link url on a website, and then draw a url tree on the screen, so users can find the target they want faster.
