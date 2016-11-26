@@ -8,6 +8,20 @@ Diver can analysis the link url on a website, and then draw a url tree on the sc
 
 Diver also has a Web UI build with Flask framework, for better user experience.
 
+# Usage
+
+Diver is build with Python 3, you need to install Python 3 and some dependence at first.
+
+```bash
+pip3 install graphviz PyQuery Flask
+export FLASK_APP="server.py"
+flask run
+```  
+
+Tested under Ubuntu 16.04, macOS 10.12, Mac OS X 10.11.
+
+# Future
+
 I am working on it to provide a better user experience and better search results. It will be so good if you give me any advice or feedback.
 
 Star, issues, and pull requests are all welcomed. 
